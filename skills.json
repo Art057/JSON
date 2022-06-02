@@ -1,0 +1,11 @@
+{
+"skills:{
+"documentation":"check-lists, test-cases, bug reports",
+"WEB":"HTTP, DevTools, HTML/CSS/JS",
+"API":"Postman, REST, JSON, XML",
+"proxy":"Charles",
+"mobile":"Android Studio, ADB",
+"terminal":"fish, git",
+"DB":"SQL"}
+}
+
