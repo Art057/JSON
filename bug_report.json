@@ -1,0 +1,16 @@
+{
+  "id":"1",
+  "title":"Huawei P Smart Plus (Nova 3i) - Homepage - User unable to Login / Sign up",
+  "description":{
+    "severity":"critical",
+    "issue type":"functional",
+    "frequency":"every time",
+    "action performed":{
+      "1":"Open link https://...",
+      "2":"Tap on hamburger menu",
+      "3":"Tap on Log In / Sign Up button"},
+    "expected result":"User should be able to Log In / Sign Up",
+    "actual result":"User redirected to homepage",
+    "attachments":"1.jpg, 2.mp4, 3.chls"
+  }
+}
